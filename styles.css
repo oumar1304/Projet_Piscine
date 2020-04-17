@@ -6,23 +6,18 @@ height: 85px;
 
 .nav{
 	background-color: white; 
-	padding:80px;
+	padding:60px;
 	padding-top: 20px; 
-	margin-left: 350px; 
-	height: 500px; width: 700px;
+	margin-left: 200px; 
+	height: 100px; width: 700px;
 }
-
-
-
-
-
 
 
 .page-footer {
  background-color: #000000;
  color: #ccc;
- margin-top:585px;
- padding: 6px 0 3px;
+ margin-top:950px;
+ padding: 8px 0 3px;
 }
 .footer-copyright {
  color: #666;
